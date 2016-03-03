@@ -42,7 +42,6 @@ ul.posts li {
     list-style: none;
 }
 img { 
-    width: 30%;
-    max-width: 200px;
+    max-width: 100%;
     height: auto;
 }
