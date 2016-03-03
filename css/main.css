@@ -43,5 +43,5 @@ ul.posts li {
 }
 img { 
     max-height: 100%;
-    height: auto;
+    width: auto;
 }
