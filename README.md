@@ -1,2 +1,2 @@
 # crpittman.github.io
-A quick and dirty personal webpage.
+A personal webpage for learning and experimenting with CSS and markdown.
