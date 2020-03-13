@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source Themes | Corey Pittman</title>
-    <link>coreyp.me/tags/source-themes/</link>
-      <atom:link href="coreyp.me/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://crpittman.github.io/tags/source-themes/</link>
+      <atom:link href="https://crpittman.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Source Themes</title>
-      <link>coreyp.me/tags/source-themes/</link>
+      <link>https://crpittman.github.io/tags/source-themes/</link>
     </image>
     
     <item>
       <title>Determining Design Requirements for AR Physics Education Applications</title>
-      <link>coreyp.me/publication/holophysics/</link>
+      <link>https://crpittman.github.io/publication/holophysics/</link>
       <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>coreyp.me/publication/holophysics/</guid>
+      <guid>https://crpittman.github.io/publication/holophysics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiwave: Complex Hand Gesture Recognition Using the Doppler Effect</title>
-      <link>coreyp.me/publication/multiwave-gi/</link>
+      <link>https://crpittman.github.io/publication/multiwave-gi/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <guid>coreyp.me/publication/multiwave-gi/</guid>
+      <guid>https://crpittman.github.io/publication/multiwave-gi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jackknife: A Reliable Reliable with Few Samples and Many Modalities</title>
-      <link>coreyp.me/publication/jackknife/</link>
+      <link>https://crpittman.github.io/publication/jackknife/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <guid>coreyp.me/publication/jackknife/</guid>
+      <guid>https://crpittman.github.io/publication/jackknife/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Rapid Prototyping Approach to Synthetic Data Generation for Improved 2D Gesture Recognition</title>
-      <link>coreyp.me/publication/sdg/</link>
+      <link>https://crpittman.github.io/publication/sdg/</link>
       <pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>coreyp.me/publication/sdg/</guid>
+      <guid>https://crpittman.github.io/publication/sdg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiwave: Doppler Effect Based Gesture Recognition in Multiple Dimensions</title>
-      <link>coreyp.me/publication/multiwave-ea/</link>
+      <link>https://crpittman.github.io/publication/multiwave-ea/</link>
       <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
-      <guid>coreyp.me/publication/multiwave-ea/</guid>
+      <guid>https://crpittman.github.io/publication/multiwave-ea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal Input for Perceptual User Interfaces</title>
-      <link>coreyp.me/publication/multimodal-chapter/</link>
+      <link>https://crpittman.github.io/publication/multimodal-chapter/</link>
       <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>coreyp.me/publication/multimodal-chapter/</guid>
+      <guid>https://crpittman.github.io/publication/multimodal-chapter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Head Tracked Head Mounted Displays for First Person Robot Teleoperation</title>
-      <link>coreyp.me/publication/drone-hmd/</link>
+      <link>https://crpittman.github.io/publication/drone-hmd/</link>
       <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>coreyp.me/publication/drone-hmd/</guid>
+      <guid>https://crpittman.github.io/publication/drone-hmd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A $-Family Friendly Approach to Prototype Selection</title>
-      <link>coreyp.me/publication/prototype-selection/</link>
+      <link>https://crpittman.github.io/publication/prototype-selection/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>coreyp.me/publication/prototype-selection/</guid>
+      <guid>https://crpittman.github.io/publication/prototype-selection/</guid>
       <description></description>
     </item>
     

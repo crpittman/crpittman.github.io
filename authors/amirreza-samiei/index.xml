@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amirreza Samiei | Corey Pittman</title>
-    <link>coreyp.me/authors/amirreza-samiei/</link>
-      <atom:link href="coreyp.me/authors/amirreza-samiei/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://crpittman.github.io/authors/amirreza-samiei/</link>
+      <atom:link href="https://crpittman.github.io/authors/amirreza-samiei/index.xml" rel="self" type="application/rss+xml" />
     <description>Amirreza Samiei</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Amirreza Samiei</title>
-      <link>coreyp.me/authors/amirreza-samiei/</link>
+      <link>https://crpittman.github.io/authors/amirreza-samiei/</link>
     </image>
     
     <item>
       <title>Jackknife: A Reliable Reliable with Few Samples and Many Modalities</title>
-      <link>coreyp.me/publication/jackknife/</link>
+      <link>https://crpittman.github.io/publication/jackknife/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      <guid>coreyp.me/publication/jackknife/</guid>
+      <guid>https://crpittman.github.io/publication/jackknife/</guid>
       <description></description>
     </item>
     
