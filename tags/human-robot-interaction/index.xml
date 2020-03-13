@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human Robot Interaction | Corey Pittman</title>
+    <link>https://crpittman.github.io/tags/human-robot-interaction/</link>
+      <atom:link href="https://crpittman.github.io/tags/human-robot-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Human Robot Interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Human Robot Interaction</title>
+      <link>https://crpittman.github.io/tags/human-robot-interaction/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Head Tracked Head Mounted Displays for First Person Robot Teleoperation</title>
+      <link>https://crpittman.github.io/publication/drone-hmd/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/drone-hmd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

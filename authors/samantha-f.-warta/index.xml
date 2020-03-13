@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samantha F. Warta | Corey Pittman</title>
+    <link>https://crpittman.github.io/authors/samantha-f.-warta/</link>
+      <atom:link href="https://crpittman.github.io/authors/samantha-f.-warta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samantha F. Warta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Samantha F. Warta</title>
+      <link>https://crpittman.github.io/authors/samantha-f.-warta/</link>
+    </image>
+    
+    <item>
+      <title>Determining the effect of training on uncertainty visualization evaluations</title>
+      <link>https://crpittman.github.io/publication/onr1/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/onr1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

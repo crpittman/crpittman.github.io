@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gesture Recognition | Corey Pittman</title>
+    <link>https://crpittman.github.io/tags/gesture-recognition/</link>
+      <atom:link href="https://crpittman.github.io/tags/gesture-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gesture Recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Gesture Recognition</title>
+      <link>https://crpittman.github.io/tags/gesture-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Multiwave: Complex Hand Gesture Recognition Using the Doppler Effect</title>
+      <link>https://crpittman.github.io/publication/multiwave-gi/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/multiwave-gi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jackknife: A Reliable Reliable with Few Samples and Many Modalities</title>
+      <link>https://crpittman.github.io/publication/jackknife/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/jackknife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rapid Prototyping Approach to Synthetic Data Generation for Improved 2D Gesture Recognition</title>
+      <link>https://crpittman.github.io/publication/sdg/</link>
+      <pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/sdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiwave: Doppler Effect Based Gesture Recognition in Multiple Dimensions</title>
+      <link>https://crpittman.github.io/publication/multiwave-ea/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/multiwave-ea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A $-Family Friendly Approach to Prototype Selection</title>
+      <link>https://crpittman.github.io/publication/prototype-selection/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/prototype-selection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

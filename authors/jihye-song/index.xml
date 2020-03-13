@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jihye Song | Corey Pittman</title>
+    <link>https://crpittman.github.io/authors/jihye-song/</link>
+      <atom:link href="https://crpittman.github.io/authors/jihye-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jihye Song</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jihye Song</title>
+      <link>https://crpittman.github.io/authors/jihye-song/</link>
+    </image>
+    
+    <item>
+      <title>Examining Training Comprehension and External Cognition in Evaluations of Uncertainty Visualizations to Support Decision Making</title>
+      <link>https://crpittman.github.io/publication/onr3/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/onr3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining the Impact of Training and Feedback on Visualization-Supported Decision Making under Uncertainty</title>
+      <link>https://crpittman.github.io/publication/onr2/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/onr2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the effect of training on uncertainty visualization evaluations</title>
+      <link>https://crpittman.github.io/publication/onr1/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/onr1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

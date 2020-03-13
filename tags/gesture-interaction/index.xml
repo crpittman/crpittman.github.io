@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gesture Interaction | Corey Pittman</title>
+    <link>https://crpittman.github.io/tags/gesture-interaction/</link>
+      <atom:link href="https://crpittman.github.io/tags/gesture-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gesture Interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Gesture Interaction</title>
+      <link>https://crpittman.github.io/tags/gesture-interaction/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Input for Perceptual User Interfaces</title>
+      <link>https://crpittman.github.io/publication/multimodal-chapter/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/multimodal-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Head Tracked Head Mounted Displays for First Person Robot Teleoperation</title>
+      <link>https://crpittman.github.io/publication/drone-hmd/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/drone-hmd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

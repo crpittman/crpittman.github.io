@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jared Clark | Corey Pittman</title>
+    <link>https://crpittman.github.io/authors/jared-clark/</link>
+      <atom:link href="https://crpittman.github.io/authors/jared-clark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jared Clark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jared Clark</title>
+      <link>https://crpittman.github.io/authors/jared-clark/</link>
+    </image>
+    
+    <item>
+      <title>Examining the Impact of Training and Feedback on Visualization-Supported Decision Making under Uncertainty</title>
+      <link>https://crpittman.github.io/publication/onr2/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/onr2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

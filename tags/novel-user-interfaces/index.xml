@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Novel User Interfaces | Corey Pittman</title>
+    <link>https://crpittman.github.io/tags/novel-user-interfaces/</link>
+      <atom:link href="https://crpittman.github.io/tags/novel-user-interfaces/index.xml" rel="self" type="application/rss+xml" />
+    <description>Novel User Interfaces</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Novel User Interfaces</title>
+      <link>https://crpittman.github.io/tags/novel-user-interfaces/</link>
+    </image>
+    
+    <item>
+      <title>Multiwave: Complex Hand Gesture Recognition Using the Doppler Effect</title>
+      <link>https://crpittman.github.io/publication/multiwave-gi/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/multiwave-gi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiwave: Doppler Effect Based Gesture Recognition in Multiple Dimensions</title>
+      <link>https://crpittman.github.io/publication/multiwave-ea/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/multiwave-ea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

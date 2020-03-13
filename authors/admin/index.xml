@@ -5,7 +5,7 @@
     <link>https://crpittman.github.io/authors/admin/</link>
       <atom:link href="https://crpittman.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Corey Pittman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Corey Pittman</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Examining Training Comprehension and External Cognition in Evaluations of Uncertainty Visualizations to Support Decision Making</title>
+      <link>https://crpittman.github.io/publication/onr3/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/onr3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Determining Design Requirements for AR Physics Education Applications</title>
       <link>https://crpittman.github.io/publication/holophysics/</link>
       <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://crpittman.github.io/publication/holophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining the Impact of Training and Feedback on Visualization-Supported Decision Making under Uncertainty</title>
+      <link>https://crpittman.github.io/publication/onr2/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/onr2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the effect of training on uncertainty visualization evaluations</title>
+      <link>https://crpittman.github.io/publication/onr1/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/onr1/</guid>
       <description></description>
     </item>
     
