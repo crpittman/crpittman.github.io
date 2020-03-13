@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mehran Maghoumi | Corey Pittman</title>
+    <link>coreyp.me/authors/mehran-maghoumi/</link>
+      <atom:link href="coreyp.me/authors/mehran-maghoumi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mehran Maghoumi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mehran Maghoumi</title>
+      <link>coreyp.me/authors/mehran-maghoumi/</link>
+    </image>
+    
+    <item>
+      <title>Jackknife: A Reliable Reliable with Few Samples and Many Modalities</title>
+      <link>coreyp.me/publication/jackknife/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <guid>coreyp.me/publication/jackknife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rapid Prototyping Approach to Synthetic Data Generation for Improved 2D Gesture Recognition</title>
+      <link>coreyp.me/publication/sdg/</link>
+      <pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>coreyp.me/publication/sdg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

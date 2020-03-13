@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conner Brooks | Corey Pittman</title>
+    <link>coreyp.me/authors/conner-brooks/</link>
+      <atom:link href="coreyp.me/authors/conner-brooks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conner Brooks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Conner Brooks</title>
+      <link>coreyp.me/authors/conner-brooks/</link>
+    </image>
+    
+    <item>
+      <title>Multiwave: Doppler Effect Based Gesture Recognition in Multiple Dimensions</title>
+      <link>coreyp.me/publication/multiwave-ea/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>coreyp.me/publication/multiwave-ea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

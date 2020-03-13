@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eugene M Taranta II | Corey Pittman</title>
+    <link>coreyp.me/authors/eugene-m-taranta-ii/</link>
+      <atom:link href="coreyp.me/authors/eugene-m-taranta-ii/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eugene M Taranta II</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Eugene M Taranta II</title>
+      <link>coreyp.me/authors/eugene-m-taranta-ii/</link>
+    </image>
+    
+    <item>
+      <title>Jackknife: A Reliable Reliable with Few Samples and Many Modalities</title>
+      <link>coreyp.me/publication/jackknife/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <guid>coreyp.me/publication/jackknife/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

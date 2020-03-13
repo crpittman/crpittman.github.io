@@ -1,154 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication/multiwave-gi/</loc>
-      <lastmod>2017-05-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/authors/admin/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication/jackknife/</loc>
-      <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/publication_types/1/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/authors/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication/sdg/</loc>
-      <lastmod>2016-10-16T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/publication/holophysics/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication/multiwave-ea/</loc>
-      <lastmod>2016-05-06T16:47:39-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/authors/joseph-j.-laviola-jr./</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication/prototype-selection/</loc>
-      <lastmod>2016-03-06T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/publication_types/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication/multimodal-chapter/</loc>
-      <lastmod>2014-10-06T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/publication/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication/drone-hmd/</loc>
-      <lastmod>2014-02-06T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/tags/source-themes/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication_types/0/</loc>
-      <lastmod>2016-05-06T16:47:39-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/tags/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication_types/1/</loc>
-      <lastmod>2017-05-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/publication/multiwave-gi/</loc>
+    <lastmod>2017-05-15T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication_types/6/</loc>
-      <lastmod>2014-10-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/authors/amirreza-samiei/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/authors/eugene-m-taranta-ii/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/</loc>
-      <lastmod>2019-05-14T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/publication/jackknife/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/publication_types/</loc>
-      <lastmod>2016-05-06T16:47:39-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/authors/mehran-maghoumi/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://crpittman.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>coreyp.me/authors/pooya-khaloo/</loc>
+    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>coreyp.me/publication/sdg/</loc>
+    <lastmod>2016-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>coreyp.me/authors/eugene-m.-taranta-ii/</loc>
+    <lastmod>2016-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>coreyp.me/authors/conner-brooks/</loc>
+    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>coreyp.me/publication/multiwave-ea/</loc>
+    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>coreyp.me/authors/pamela-wisniewski/</loc>
+    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>coreyp.me/publication/multimodal-chapter/</loc>
+    <lastmod>2014-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>coreyp.me/authors/sarah-buchanan/</loc>
+    <lastmod>2014-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>coreyp.me/publication/drone-hmd/</loc>
+    <lastmod>2014-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>coreyp.me/publication/prototype-selection/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>coreyp.me/categories/</loc>
+  </url>
   
 </urlset>

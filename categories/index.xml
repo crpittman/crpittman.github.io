@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Corey Pittman</title>
-    <link>http://crpittman.github.io/categories/</link>
-    <description>Recent content in Categories on Corey Pittman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Corey Pittman</copyright>
-    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    <title>Categories | Corey Pittman</title>
+    <link>coreyp.me/categories/</link>
+      <atom:link href="coreyp.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Categories</title>
+      <link>coreyp.me/categories/</link>
+    </image>
     
   </channel>
 </rss>

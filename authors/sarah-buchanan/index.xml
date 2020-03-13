@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Buchanan | Corey Pittman</title>
+    <link>coreyp.me/authors/sarah-buchanan/</link>
+      <atom:link href="coreyp.me/authors/sarah-buchanan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah Buchanan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sarah Buchanan</title>
+      <link>coreyp.me/authors/sarah-buchanan/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Input for Perceptual User Interfaces</title>
+      <link>coreyp.me/publication/multimodal-chapter/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>coreyp.me/publication/multimodal-chapter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
