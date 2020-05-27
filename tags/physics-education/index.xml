@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics Education | Corey Pittman</title>
+    <link>https://crpittman.github.io/tags/physics-education/</link>
+      <atom:link href="https://crpittman.github.io/tags/physics-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Physics Education</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Physics Education</title>
+      <link>https://crpittman.github.io/tags/physics-education/</link>
+    </image>
+    
+    <item>
+      <title>PhyAR: Determining the Utility of Augmented Reality for Physics Education in the Classroom</title>
+      <link>https://crpittman.github.io/publication/phyar/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/phyar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
