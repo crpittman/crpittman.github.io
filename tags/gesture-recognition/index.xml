@@ -5,12 +5,28 @@
     <link>https://crpittman.github.io/tags/gesture-recognition/</link>
       <atom:link href="https://crpittman.github.io/tags/gesture-recognition/index.xml" rel="self" type="application/rss+xml" />
     <description>Gesture Recognition</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Gesture Recognition</title>
       <link>https://crpittman.github.io/tags/gesture-recognition/</link>
     </image>
+    
+    <item>
+      <title>Machete: Easy, Efficient, and Precise Continuous Custom Gesture Segmentation</title>
+      <link>https://crpittman.github.io/publication/machete/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/machete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Toward an Ecologically Valid Data Collection Protocol for 2D Gestures In Video Games</title>
+      <link>https://crpittman.github.io/publication/2d-data-collection/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/2d-data-collection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multiwave: Complex Hand Gesture Recognition Using the Doppler Effect</title>
@@ -25,14 +41,6 @@
       <link>https://crpittman.github.io/publication/jackknife/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       <guid>https://crpittman.github.io/publication/jackknife/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jackknife: A Reliable Reliable with Few Samples and Many Modalities</title>
-      <link>https://crpittman.github.io/publication/2d-data-collection/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://crpittman.github.io/publication/2d-data-collection/</guid>
       <description></description>
     </item>
     

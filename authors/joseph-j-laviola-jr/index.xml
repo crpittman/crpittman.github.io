@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph J Laviola Jr | Corey Pittman</title>
+    <link>https://crpittman.github.io/authors/joseph-j-laviola-jr/</link>
+      <atom:link href="https://crpittman.github.io/authors/joseph-j-laviola-jr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joseph J Laviola Jr</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Joseph J Laviola Jr</title>
+      <link>https://crpittman.github.io/authors/joseph-j-laviola-jr/</link>
+    </image>
+    
+    <item>
+      <title>Machete: Easy, Efficient, and Precise Continuous Custom Gesture Segmentation</title>
+      <link>https://crpittman.github.io/publication/machete/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/machete/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

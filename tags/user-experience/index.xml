@@ -5,7 +5,7 @@
     <link>https://crpittman.github.io/tags/user-experience/</link>
       <atom:link href="https://crpittman.github.io/tags/user-experience/index.xml" rel="self" type="application/rss+xml" />
     <description>User Experience</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>User Experience</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Jackknife: A Reliable Reliable with Few Samples and Many Modalities</title>
+      <title>Moving Toward an Ecologically Valid Data Collection Protocol for 2D Gestures In Video Games</title>
       <link>https://crpittman.github.io/publication/2d-data-collection/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://crpittman.github.io/publication/2d-data-collection/</guid>
       <description></description>
     </item>

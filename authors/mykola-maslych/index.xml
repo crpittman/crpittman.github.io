@@ -5,7 +5,7 @@
     <link>https://crpittman.github.io/authors/mykola-maslych/</link>
       <atom:link href="https://crpittman.github.io/authors/mykola-maslych/index.xml" rel="self" type="application/rss+xml" />
     <description>Mykola Maslych</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Mykola Maslych</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
-      <title>Jackknife: A Reliable Reliable with Few Samples and Many Modalities</title>
+      <title>Machete: Easy, Efficient, and Precise Continuous Custom Gesture Segmentation</title>
+      <link>https://crpittman.github.io/publication/machete/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://crpittman.github.io/publication/machete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Toward an Ecologically Valid Data Collection Protocol for 2D Gestures In Video Games</title>
       <link>https://crpittman.github.io/publication/2d-data-collection/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://crpittman.github.io/publication/2d-data-collection/</guid>
       <description></description>
     </item>
